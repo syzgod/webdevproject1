@@ -119,6 +119,7 @@ h1 {
     min-width: 50%;
     max-width: 90%;
     max-height: 50%;
+    margin: 20px;
   }
 
   .main {
