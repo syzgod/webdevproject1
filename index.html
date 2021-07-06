@@ -66,20 +66,26 @@
         </ul>
       </div>
       <div class="column column-right">
-        <img
-          class="image"
-          src="images/image-header-desktop.jpg"
-          alt="office pictrure"
-        />
+        <picture class="image">
+          <source
+            media="(max-width: 376px)"
+            srcset="images/image-header-mobile.jpg"
+          />
+          <img
+            class="image"
+            src="images/image-header-desktop.jpg"
+            alt="office picture"
+          />
+        </picture>
       </div>
     </div>
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="#">Viktor Berczeli</a>.
+      </div>
+    </footer>
   </body>
-  <!-- <footer>
-    <div class="attribution">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by <a href="#">Viktor Berczeli</a>.
-    </div>
-  </footer> -->
 </html>
