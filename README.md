@@ -58,7 +58,7 @@ Media query is an amazing tool loving it, very useful these day when tablets and
 
 Something very new for me: "mix-blend-mode: multiply;" - probably I'm not alone.
 
-Also learning that Flexbox itself add a basic margin so resetting all the margins before we use flexbox can be very useful.
+Also learning that Flexbox itself adds a basic margin, so resetting all the margins before we use flexbox can be very useful.
 
 
 ### Continued development
