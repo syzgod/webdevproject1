@@ -83,5 +83,6 @@ https://css-tricks.com - The website is super useful in general, thankfully Goog
 
 ## Acknowledgments
 
-Big shoutout to my cousin, he is a webdev for so many years now. I will be still lost probably.
+Big shoutout to my cousin, he is a webdev for so many years now. I will be still lost probably without him.
 Also big thanks to the Slack community especially to @Anna and @Grace!
+Thank for all the patience from my helpers!
