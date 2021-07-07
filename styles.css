@@ -96,6 +96,7 @@ li {
 @media screen and (max-width: 1025px) {
   body {
     display: flex;
+    max-width: 582px;
   }
 
   .card {
@@ -141,7 +142,7 @@ li {
   .image {
     display: flex;
     background-repeat: no-repeat;
-    object-fit: contain;
+    object-fit: fill;
     border-radius: 0;
     width: 100%;
   }
@@ -157,6 +158,10 @@ li {
   }
 
   .column-right {
-    width: 100%;
+    width: auto;
+  }
+
+  .single-stat:nth-last-child(1) {
+    margin-bottom: 20px;
   }
 }
