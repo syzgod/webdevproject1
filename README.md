@@ -42,7 +42,7 @@ https://github.com/syzgod/webdevproject1/blob/09d590aeb58276e69c52b0751b0047db77
 
 ### Built with
 
-HTML + CSS
+HTML + CSS,
 Flexbox
 
 ### What I learned
